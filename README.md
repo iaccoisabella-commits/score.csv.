@@ -1,1 +1,1 @@
-date,score
+SCORE-DATA
