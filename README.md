@@ -1,1 +1,1 @@
-# score.csv.
+date,score
